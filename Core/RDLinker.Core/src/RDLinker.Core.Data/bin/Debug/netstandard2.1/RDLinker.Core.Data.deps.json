@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "RDLinker.Core.Data/1.0.0": {
+        "runtime": {
+          "RDLinker.Core.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RDLinker.Core.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

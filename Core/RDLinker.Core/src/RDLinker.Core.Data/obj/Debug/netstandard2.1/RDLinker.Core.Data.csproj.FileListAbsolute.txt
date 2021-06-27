@@ -1,0 +1,10 @@
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\bin\Debug\netstandard2.1\RDLinker.Core.Data.deps.json
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\bin\Debug\netstandard2.1\RDLinker.Core.Data.dll
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\bin\Debug\netstandard2.1\RDLinker.Core.Data.pdb
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.AssemblyInfoInputs.cache
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.AssemblyInfo.cs
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.csproj.CoreCompileInputs.cache
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.dll
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.pdb
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data\obj\Debug\netstandard2.1\RDLinker.Core.Data.csproj.AssemblyReference.cache

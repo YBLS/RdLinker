@@ -1,0 +1,13 @@
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\bin\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.deps.json
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\bin\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.dll
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\bin\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.pdb
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\bin\Debug\netstandard2.1\RDLinker.Core.Data.dll
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\bin\Debug\netstandard2.1\RDLinker.Core.Data.pdb
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.csproj.AssemblyReference.cache
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.AssemblyInfoInputs.cache
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.AssemblyInfo.cs
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.csproj.CoreCompileInputs.cache
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.csproj.CopyComplete
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.dll
+D:\MyProjects\RDLinker\Core\RDLinker.Core\src\RDLinker.Core.Data.Dapper\obj\Debug\netstandard2.1\RDLinker.Core.Data.Dapper.pdb
