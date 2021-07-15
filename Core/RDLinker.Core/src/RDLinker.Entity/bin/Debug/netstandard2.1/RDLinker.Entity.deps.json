@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "RDLinker.Entity/1.0.0": {
+        "dependencies": {
+          "RDLinker.Data": "1.0.0"
+        },
+        "runtime": {
+          "RDLinker.Entity.dll": {}
+        }
+      },
+      "RDLinker.Data/1.0.0": {
+        "runtime": {
+          "RDLinker.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RDLinker.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RDLinker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

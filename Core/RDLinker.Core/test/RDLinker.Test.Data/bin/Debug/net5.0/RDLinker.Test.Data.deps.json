@@ -9,9 +9,9 @@
       "RDLinker.Test.Data/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.9.4",
-          "RDLinker.Core.Data": "1.0.0",
-          "RDLinker.Core.Data.Dapper": "1.0.0",
-          "RDLinker.Core.Entity": "1.0.0",
+          "RDLinker.Data": "1.0.0",
+          "RDLinker.Data.Dapper": "1.0.0",
+          "RDLinker.Entity": "1.0.0",
           "coverlet.collector": "3.0.2",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -399,14 +399,14 @@
           }
         }
       },
-      "Npgsql/5.0.5": {
+      "Npgsql/5.0.7": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "4.6.0"
         },
         "runtime": {
           "lib/net5.0/Npgsql.dll": {
-            "assemblyVersion": "5.0.5.0",
-            "fileVersion": "5.0.5.0"
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.7.0"
           }
         }
       },
@@ -1112,27 +1112,28 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "RDLinker.Core.Data/1.0.0": {
+      "RDLinker.Data/1.0.0": {
         "runtime": {
-          "RDLinker.Core.Data.dll": {}
+          "RDLinker.Data.dll": {}
         }
       },
-      "RDLinker.Core.Data.Dapper/1.0.0": {
+      "RDLinker.Data.Dapper/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.90",
-          "Npgsql": "5.0.5",
-          "RDLinker.Core.Data": "1.0.0"
+          "Npgsql": "5.0.7",
+          "RDLinker.Data": "1.0.0",
+          "RDLinker.Entity": "1.0.0"
         },
         "runtime": {
-          "RDLinker.Core.Data.Dapper.dll": {}
+          "RDLinker.Data.Dapper.dll": {}
         }
       },
-      "RDLinker.Core.Entity/1.0.0": {
+      "RDLinker.Entity/1.0.0": {
         "dependencies": {
-          "RDLinker.Core.Data": "1.0.0"
+          "RDLinker.Data": "1.0.0"
         },
         "runtime": {
-          "RDLinker.Core.Entity.dll": {}
+          "RDLinker.Entity.dll": {}
         }
       }
     }
@@ -1227,12 +1228,12 @@
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
     },
-    "Npgsql/5.0.5": {
+    "Npgsql/5.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cvqU1o/gTeX9ynzCEa1NkBEAtGFxLwROw1KweG/giNEYSSw/6W3G7hvYIFIyrdgTorEbLu/AaI2Lxs5TRB4goQ==",
-      "path": "npgsql/5.0.5",
-      "hashPath": "npgsql.5.0.5.nupkg.sha512"
+      "sha512": "sha512-EQWwxb2lN9w78YG4f6Fxhw5lFEx4LuaNGasXzw86kTOJxiPsUORSh/BTencNZJO4uVqGZx3EO9Z8JXTAvRjgeg==",
+      "path": "npgsql/5.0.7",
+      "hashPath": "npgsql.5.0.7.nupkg.sha512"
     },
     "NuGet.Frameworks/5.0.0": {
       "type": "package",
@@ -1808,17 +1809,17 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "RDLinker.Core.Data/1.0.0": {
+    "RDLinker.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "RDLinker.Core.Data.Dapper/1.0.0": {
+    "RDLinker.Data.Dapper/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "RDLinker.Core.Entity/1.0.0": {
+    "RDLinker.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

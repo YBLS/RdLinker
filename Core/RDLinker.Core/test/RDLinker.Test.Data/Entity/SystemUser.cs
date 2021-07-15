@@ -1,5 +1,5 @@
-﻿using RDLinker.Core.Data;
-using RDLinker.Core.Data.Schema;
+﻿using RDLinker.Data;
+using RDLinker.Data.Schema;
 using System;
 using System.Collections.Generic;
 using System.Linq;

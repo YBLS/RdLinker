@@ -434,7 +434,7 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Npgsql/5.0.5": {
+      "Npgsql/5.0.7": {
         "type": "package",
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "4.6.0"
@@ -1701,42 +1701,43 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "RDLinker.Core.Data/1.0.0": {
+      "RDLinker.Data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "compile": {
-          "bin/placeholder/RDLinker.Core.Data.dll": {}
+          "bin/placeholder/RDLinker.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RDLinker.Core.Data.dll": {}
+          "bin/placeholder/RDLinker.Data.dll": {}
         }
       },
-      "RDLinker.Core.Data.Dapper/1.0.0": {
+      "RDLinker.Data.Dapper/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Dapper": "2.0.90",
-          "Npgsql": "5.0.5",
-          "RDLinker.Core.Data": "1.0.0"
+          "Npgsql": "5.0.7",
+          "RDLinker.Data": "1.0.0",
+          "RDLinker.Entity": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/RDLinker.Core.Data.Dapper.dll": {}
+          "bin/placeholder/RDLinker.Data.Dapper.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RDLinker.Core.Data.Dapper.dll": {}
+          "bin/placeholder/RDLinker.Data.Dapper.dll": {}
         }
       },
-      "RDLinker.Core.Entity/1.0.0": {
+      "RDLinker.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "RDLinker.Core.Data": "1.0.0"
+          "RDLinker.Data": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/RDLinker.Core.Entity.dll": {}
+          "bin/placeholder/RDLinker.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RDLinker.Core.Entity.dll": {}
+          "bin/placeholder/RDLinker.Entity.dll": {}
         }
       }
     }
@@ -2488,10 +2489,10 @@
         "tools/install.ps1"
       ]
     },
-    "Npgsql/5.0.5": {
-      "sha512": "cvqU1o/gTeX9ynzCEa1NkBEAtGFxLwROw1KweG/giNEYSSw/6W3G7hvYIFIyrdgTorEbLu/AaI2Lxs5TRB4goQ==",
+    "Npgsql/5.0.7": {
+      "sha512": "EQWwxb2lN9w78YG4f6Fxhw5lFEx4LuaNGasXzw86kTOJxiPsUORSh/BTencNZJO4uVqGZx3EO9Z8JXTAvRjgeg==",
       "type": "package",
-      "path": "npgsql/5.0.5",
+      "path": "npgsql/5.0.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2503,7 +2504,7 @@
         "lib/netstandard2.0/Npgsql.xml",
         "lib/netstandard2.1/Npgsql.dll",
         "lib/netstandard2.1/Npgsql.xml",
-        "npgsql.5.0.5.nupkg.sha512",
+        "npgsql.5.0.7.nupkg.sha512",
         "npgsql.nuspec",
         "postgresql.png"
       ]
@@ -6038,28 +6039,28 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "RDLinker.Core.Data/1.0.0": {
+    "RDLinker.Data/1.0.0": {
       "type": "project",
-      "path": "../../src/RDLinker.Core.Data/RDLinker.Core.Data.csproj",
-      "msbuildProject": "../../src/RDLinker.Core.Data/RDLinker.Core.Data.csproj"
+      "path": "../../src/RDLinker.Data/RDLinker.Data.csproj",
+      "msbuildProject": "../../src/RDLinker.Data/RDLinker.Data.csproj"
     },
-    "RDLinker.Core.Data.Dapper/1.0.0": {
+    "RDLinker.Data.Dapper/1.0.0": {
       "type": "project",
-      "path": "../../src/RDLinker.Core.Data.Dapper/RDLinker.Core.Data.Dapper.csproj",
-      "msbuildProject": "../../src/RDLinker.Core.Data.Dapper/RDLinker.Core.Data.Dapper.csproj"
+      "path": "../../src/RDLinker.Data.Dapper/RDLinker.Data.Dapper.csproj",
+      "msbuildProject": "../../src/RDLinker.Data.Dapper/RDLinker.Data.Dapper.csproj"
     },
-    "RDLinker.Core.Entity/1.0.0": {
+    "RDLinker.Entity/1.0.0": {
       "type": "project",
-      "path": "../../src/RDLinker.Core.Entity/RDLinker.Core.Entity.csproj",
-      "msbuildProject": "../../src/RDLinker.Core.Entity/RDLinker.Core.Entity.csproj"
+      "path": "../../src/RDLinker.Entity/RDLinker.Entity.csproj",
+      "msbuildProject": "../../src/RDLinker.Entity/RDLinker.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "RDLinker.Core.Data >= 1.0.0",
-      "RDLinker.Core.Data.Dapper >= 1.0.0",
-      "RDLinker.Core.Entity >= 1.0.0",
+      "RDLinker.Data >= 1.0.0",
+      "RDLinker.Data.Dapper >= 1.0.0",
+      "RDLinker.Entity >= 1.0.0",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6072,11 +6073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\RDLinker.Test.Data.csproj",
+      "projectUniqueName": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\RDLinker.Test.Data.csproj",
       "projectName": "RDLinker.Test.Data",
-      "projectPath": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\RDLinker.Test.Data.csproj",
+      "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\RDLinker.Test.Data.csproj",
       "packagesPath": "C:\\Users\\kane\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\obj\\",
+      "outputPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\test\\RDLinker.Test.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6098,14 +6099,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Data.Dapper\\RDLinker.Core.Data.Dapper.csproj": {
-              "projectPath": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Data.Dapper\\RDLinker.Core.Data.Dapper.csproj"
+            "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data.Dapper\\RDLinker.Data.Dapper.csproj": {
+              "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data.Dapper\\RDLinker.Data.Dapper.csproj"
             },
-            "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Data\\RDLinker.Core.Data.csproj": {
-              "projectPath": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Data\\RDLinker.Core.Data.csproj"
+            "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj": {
+              "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj"
             },
-            "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Entity\\RDLinker.Core.Entity.csproj": {
-              "projectPath": "D:\\MyProjects\\RDLinker\\Core\\RDLinker.Core\\src\\RDLinker.Core.Entity\\RDLinker.Core.Entity.csproj"
+            "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj": {
+              "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj"
             }
           }
         }
@@ -6156,7 +6157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
       }
     }
   }

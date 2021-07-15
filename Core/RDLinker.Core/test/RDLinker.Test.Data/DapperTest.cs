@@ -1,8 +1,8 @@
 using RDLinker.Test.Data.Entity;
 using System;
 using Xunit;
-using RDLinker.Core.Data.Dapper;
-using RDLinker.Core.Data.Dapper.DbContexts;
+using RDLinker.Data.Dapper;
+using RDLinker.Data.Dapper.DbContexts;
 using System.Data.Common;
 using System.Data;
 using Npgsql;

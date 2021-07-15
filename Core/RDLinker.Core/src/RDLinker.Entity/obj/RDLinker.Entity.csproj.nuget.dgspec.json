@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj",
+        "projectName": "RDLinker.Data",
+        "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj",
+        "packagesPath": "C:\\Users\\kane\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nrm.recloud.com.cn:8081/repository/nuget-hosted/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj",
+        "projectName": "RDLinker.Entity",
+        "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\RDLinker.Entity.csproj",
+        "packagesPath": "C:\\Users\\kane\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nrm.recloud.com.cn:8081/repository/nuget-hosted/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj": {
+                "projectPath": "D:\\MyProjects\\Git\\RdLinker\\Core\\RDLinker.Core\\src\\RDLinker.Data\\RDLinker.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
