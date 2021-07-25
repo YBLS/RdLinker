@@ -1,9 +1,0 @@
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\bin\Debug\netstandard2.1\RDLinker.Data.deps.json
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\bin\Debug\netstandard2.1\RDLinker.Data.dll
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\bin\Debug\netstandard2.1\RDLinker.Data.pdb
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.GeneratedMSBuildEditorConfig.editorconfig
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.AssemblyInfoInputs.cache
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.AssemblyInfo.cs
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.csproj.CoreCompileInputs.cache
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.dll
-D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Data\obj\Debug\netstandard2.1\RDLinker.Data.pdb
