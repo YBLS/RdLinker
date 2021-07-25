@@ -1,0 +1,9 @@
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\bin\Debug\netstandard2.1\RDLinker.Log.deps.json
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\bin\Debug\netstandard2.1\RDLinker.Log.dll
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\bin\Debug\netstandard2.1\RDLinker.Log.pdb
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.AssemblyInfoInputs.cache
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.AssemblyInfo.cs
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.csproj.CoreCompileInputs.cache
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.dll
+D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\obj\Debug\netstandard2.1\RDLinker.Log.pdb

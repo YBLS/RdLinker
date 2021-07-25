@@ -1,0 +1,1469 @@
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,407                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14762]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,419                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14774]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,420                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14774]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,420                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14774]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,420                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14775]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,421                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14775]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,421                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14776]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,421                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14776]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,422                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14776]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,422                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14777]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,423                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14777]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,423                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14778]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,423                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14778]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,424                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14778]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,424                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14779]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,425                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14779]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,425                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14779]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,425                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14780]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,426                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14780]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,426                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14781]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,427                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14781]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,427                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14781]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,427                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14782]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,428                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14782]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,428                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14783]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,429                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14783]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,429                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14783]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,429                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14784]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,430                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14784]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,430                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14785]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,430                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14785]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,431                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14785]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,431                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14786]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,432                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14786]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,432                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14787]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,432                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14787]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,433                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14787]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,433                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14788]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,434                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14788]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,434                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14789]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,435                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14789]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,435                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14790]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,435                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14790]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,436                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14790]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,436                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14791]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,437                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14791]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,437                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14792]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,437                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14792]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,438                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14792]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,438                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14793]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,439                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14793]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,439                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14794]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,440                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14794]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,440                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14795]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,441                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14795]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,441                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14795]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,441                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14796]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,442                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14796]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,442                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14797]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,443                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14797]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,443                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14798]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,443                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14798]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,444                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14798]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,444                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14799]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,445                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14799]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,445                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14800]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,446                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14800]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,446                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14800]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,446                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14801]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,447                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14801]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,447                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14802]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,448                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14802]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,448                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14803]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,449                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14803]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,449                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14803]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,449                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14804]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,450                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14804]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,450                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14805]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,451                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14805]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,451                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14805]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,451                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14806]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,452                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14806]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,452                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14807]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,453                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14807]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,453                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14807]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,453                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14808]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,454                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14808]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,454                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14809]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,455                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14809]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,455                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14810]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,456                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14810]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,456                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14810]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,456                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14811]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,457                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14811]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,457                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14812]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,458                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14812]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,458                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14812]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,460                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14815]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,461                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14815]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,461                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14815]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,461                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14816]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,462                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14816]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,462                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14817]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,463                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14817]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,463                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14818]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,464                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14818]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,464                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14819]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,464                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14819]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,465                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14819]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,465                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14820]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,466                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14820]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,466                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14821]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2021-07-25 15:56:44,467                                   
+【线程编号】[.NET ThreadPool Worker]                                   
+【执行时间】[14821]毫秒                                   
+【出错文件】D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\src\RDLinker.Log\LogHelper.cs                                   
+【出错行号】38                                   
+【出错的类】rdlinker-log-default 属性[(null)]                                   
+【错误描述】i from rdlinker test log                                   
+【错误详情】
+System.Exception: i from rdlinker test log
+   at RDLinker.Test.Log.UnitTest1.Test1() in D:\MyProjects\Git\RdLinker\Core\RDLinker.Core\test\RDLinker.Test.Log\UnitTest1.cs:line 26
