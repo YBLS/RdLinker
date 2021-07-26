@@ -22,9 +22,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\core\RDLinker.Data.Dapper\RDLinker.Data.Dapper.csproj" />
     <ProjectReference Include="..\..\src\core\RDLinker.Data\RDLinker.Data.csproj" />
-    <ProjectReference Include="..\..\src\RDLinker.Data.Dapper\RDLinker.Data.Dapper.csproj" />
-    <ProjectReference Include="..\..\src\RDLinker.Data\RDLinker.Data.csproj" />
-    <ProjectReference Include="..\..\src\RDLinker.Entity\RDLinker.Entity.csproj" />
   </ItemGroup>
 
 </Project>
