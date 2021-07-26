@@ -16,7 +16,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Test.Data", "test\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Test.Web", "test\RDLinker.Test.Web\RDLinker.Test.Web.csproj", "{9456C8DD-9748-44AB-9B34-1C8DDA1A4E47}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Test.Log", "test\RDLinker.Test.Log\RDLinker.Test.Log.csproj", "{E56D5B29-5485-4459-94F2-9382E043DADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Test.Logging", "test\RDLinker.Test.Logging\RDLinker.Test.Logging.csproj", "{E56D5B29-5485-4459-94F2-9382E043DADB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{18A4192F-FE36-4881-AE23-613B4BDF64E5}"
 EndProject
@@ -28,7 +28,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Data.Dapper", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Entity", "src\core\RDLinker.Entity\RDLinker.Entity.csproj", "{A657ACC0-67CC-415E-BD57-E4CFD19E2332}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Log", "src\core\RDLinker.Log\RDLinker.Log.csproj", "{882737FC-7697-4A4C-AAC3-4C76A298B670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Logging", "src\core\RDLinker.Logging\RDLinker.Logging.csproj", "{882737FC-7697-4A4C-AAC3-4C76A298B670}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDLinker.Utils", "src\core\RDLinker.Utils\RDLinker.Utils.csproj", "{9FB6B4BA-561E-4BD3-8EB3-342AE353A76D}"
 EndProject

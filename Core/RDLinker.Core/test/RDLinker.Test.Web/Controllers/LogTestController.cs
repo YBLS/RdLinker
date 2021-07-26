@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RDLinker.Log;
+using RDLinker.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;

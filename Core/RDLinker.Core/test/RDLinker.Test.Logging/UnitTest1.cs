@@ -1,10 +1,10 @@
-using RDLinker.Log;
+using RDLinker.Logging;
 using System;
 using System.Reflection;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace RDLinker.Test.Log
+namespace RDLinker.Test.Logging
 {
     public class UnitTest1
     {

@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\core\RDLinker.Log\RDLinker.Log.csproj" />
+    <ProjectReference Include="..\..\src\core\RDLinker.Logging\RDLinker.Logging.csproj" />
   </ItemGroup>
 
   <ItemGroup>
