@@ -21,11 +21,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\core\RDLinker.Log\RDLinker.Log.csproj" />
     <ProjectReference Include="..\..\src\RDLinker.Log\RDLinker.Log.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="log4netconfig.xml">
+    <None Update="Config\log4netconfig.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -36,21 +37,53 @@ namespace RDLinker.Test.Web
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+            //if (env.IsDevelopment())
+            //{
+            //    app.UseDeveloperExceptionPage();
+            //    app.UseSwagger();
+            //    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "RDLinker.Test.Web v1"));
+            //}
+
+            app.Use(next =>
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "RDLinker.Test.Web v1"));
-            }
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
+                Console.WriteLine("test use");
+                return new Microsoft.AspNetCore.Http.RequestDelegate(async context =>
+                {
+                    await context.Response.WriteAsync("hello begin use");
+                    await next(context);
+                    await context.Response.WriteAsync("hello end use");
+                });
             });
+
+            app.Use(next =>
+            {
+                Console.WriteLine("test use 1");
+                return new Microsoft.AspNetCore.Http.RequestDelegate(async context =>
+                {
+                    await context.Response.WriteAsync("hello begin use 1");
+                    await next(context);
+                    await context.Response.WriteAsync("hello end use 1");
+                });
+            });
+
+            app.Use(next =>
+            {
+                Console.WriteLine("test use 2");
+                return new Microsoft.AspNetCore.Http.RequestDelegate(async context =>
+                {
+                    await context.Response.WriteAsync("hello begin use 2");
+                    //await next(context);
+                    await context.Response.WriteAsync("hello end use 2");
+                });
+            });
+            //app.UseRouting();
+
+            //app.UseAuthorization();
+
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapControllers();
+            //});
         }
     }
 }

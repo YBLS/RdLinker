@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RDLinker.Entity\RDLinker.Entity.csproj" />
     <ProjectReference Include="..\RDLinker.Data\RDLinker.Data.csproj" />
+    <ProjectReference Include="..\RDLinker.Utils\RDLinker.Utils.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,5 @@
 ﻿using Npgsql;
+using RDLinker.Utils;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -19,7 +20,7 @@ namespace RDLinker.Data.Dapper.DbContexts
 
         public override string GeneratorId()
         {
-            return Guid.NewGuid().ToString();
+            return GuidUtil.NewSequentialGuid(SequentialGuidType.SequentialAsString).ToString();
         }
     }
 }
